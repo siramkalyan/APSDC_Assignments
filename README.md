@@ -8,3 +8,7 @@ https://github.com/siramkalyan/Hello_Toast_app
 # Calculator App Link
 
 https://github.com/siramkalyan/Calculator
+
+# Switch/Toggle Button
+
+https://github.com/siramkalyan/SwitchButton
