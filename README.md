@@ -16,3 +16,7 @@ https://github.com/siramkalyan/SwitchButton
 # Navigation Component Example
 
 https://github.com/siramkalyan/StaticSRKRAPP
+
+# Recycler View Example
+
+https://github.com/siramkalyan/RecyclerView
